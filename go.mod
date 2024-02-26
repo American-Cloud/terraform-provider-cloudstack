@@ -1,4 +1,4 @@
-module github.com/terraform-providers/terraform-provider-cloudstack
+module github.com/American-Cloud/terraform-provider-cloudstack
 
 require (
 	github.com/apache/cloudstack-go/v2 v2.13.2

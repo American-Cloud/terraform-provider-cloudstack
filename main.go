@@ -20,8 +20,8 @@
 package main
 
 import (
+	"github.com/American-Cloud/terraform-provider-cloudstack/cloudstack"
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/terraform-providers/terraform-provider-cloudstack/cloudstack"
 )
 
 func main() {

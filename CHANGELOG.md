@@ -1,3 +1,23 @@
+## 0.4.1 (Apache Cloudstack fork with changes to main branch)
+GIT LOG:
+Add docs for new resources (#81)
+Fix: zone data source not returning Id (#80)
+Update provider_test.go - fix spelling (#78)
+added cluster_id parameter and modified hostid to host_id (#79)
+Added correct docker and terraform configuration command (#53)
+Added contribute document (#54)
+Added hostid parameter for deploying virtual machine (#52)
+Feature/vapp properties added (#62)
+Fix spelling (#59)
+Add source_nat_ip_address attribute (#51)
+Adding new data sources to cloudstack-terraform-proivder (#38)
+Adding documentation for new data sources added to cloudstack-terraform-proivder (#45)
+Add Github Actions build (#49)
+fix for using display_text as a filter in template datasource (#43)
+Merge pull request #36 from apache/add-cks-versions
+Adding support for Kubernetes ISOs
+Merge pull request #35 from apache/add-cks
+
 ## 0.4.0 (Unreleased)
 
 IMPROVEMENTS:
